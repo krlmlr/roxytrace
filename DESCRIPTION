@@ -10,3 +10,4 @@ Date: 2016-11-01
 BugReports: https://github.com/krlmlr/roxytrace/issues
 URL: https://github.com/krlmlr/roxytrace, http://krlmlr.github.io/roxytrace
 Roxygen: list(markdown = TRUE)
+RoxygenNote: 5.0.1.9000

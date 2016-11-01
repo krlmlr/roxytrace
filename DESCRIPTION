@@ -1,9 +1,8 @@
 Package: roxytrace
-Title: What the Package Does (one line, title case)
+Title: Roclet Tracer For 'roxygen2'
 Version: 0.0-0
 Authors@R: person("Kirill", "Müller", role = c("aut", "cre"), email = "krlmlr+r@mailbox.org")
-Description: What the package does (one paragraph).
-Depends: R (>= 3.3.1)
+Description: Implements a simple roclet that shows its arguments as messages.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

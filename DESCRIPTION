@@ -3,6 +3,7 @@ Title: Roclet Tracer For 'roxygen2'
 Version: 0.0-0
 Authors@R: person("Kirill", "Müller", role = c("aut", "cre"), email = "krlmlr+r@mailbox.org")
 Description: Implements a simple roclet that shows its arguments as messages.
+Imports: roxygen2
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
